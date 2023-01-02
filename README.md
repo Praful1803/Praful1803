@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praful03
 - 👀 I’m interested in Web Development Technologies
-- 🌱 I’m currently learning Javascript, Reactjs and Loopback
+- 🌱 I’m currently learning Javascript, Angular, Reactjs and Loopback
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
